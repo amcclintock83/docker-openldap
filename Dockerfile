@@ -4,7 +4,7 @@
 # Version 0.1
 
 #FROM debian:8
-FROM ubuntu:14.04
+FROM alpine:3.1
 MAINTAINER Joseph Lutz <Joseph.Lutz@novatechweb.com>
 
 ENV OPENLDAP_VERSION 2.4
